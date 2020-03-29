@@ -16,8 +16,7 @@ Based on that three states are determined:
  - infected, a person who was tested positive for COVID-19
 
 ## How it works
-//TODO: add repo here
-Coronalytics app consumes CoronalyticsAPI (more in the repo of the API).
+Coronalytics app consumes [CoronalyticsAPI](https://github.com/CyrilCermak/CoronalyticsAPI) (more in the repo of the API).
 API provides:
   - the daily virus spread data
   - phone number check
